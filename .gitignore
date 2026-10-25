@@ -1,0 +1,16 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Настройки PyCharm
+.idea/
+
+# Системные файлы macOS
+.DS_Store
+
+# Локальные базы данных (если используешь SQLite)
+db.sqlite3
